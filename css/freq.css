@@ -1,0 +1,9 @@
+td.dgreen {     color: #006a3d; }
+td.green {      color: #00a760; }
+td.lgreen {     color: #91ccb4; }
+td.red {        color: #db4137; }
+td.blue {       color: #3752db; }
+
+th {
+    text-align: center;
+}
